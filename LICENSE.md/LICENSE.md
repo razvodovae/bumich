@@ -1,0 +1,1 @@
+wget https://creativecommons.org/licenses/by/4.0/legalcode.txt-O LICENSE
